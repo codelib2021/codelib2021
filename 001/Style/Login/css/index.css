@@ -1,0 +1,19 @@
+html,body {margin:0; padding:0; background:url(bg3.jpg) center bottom no-repeat #000 fixed; background-size:cover; height:100%;}
+header{ width:100%; margin:0 auto; padding:0; top:0px; z-index:50; text-align:center;} /*position:fixed; */
+a img {border: 0;}
+a {text-decoration: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
+table {empty-cells:show; border-collapse:collapse;}
+.wrapper {max-width:640px; margin:0 auto;}
+.bg1 {width:100%;}
+.topimg {width:100%; float:none; max-height:350px; max-width:640px; margin:0 auto; padding-bottom:2px;}
+.logo {width:90%; margin:0 auto 0 10%;}
+.logo td {float:left; text-align:center; width:45%; list-style:none; margin:0; padding:0;}
+.logo td img {width:60%; margin:15% auto;}
+.logo td a {color:#CCC;}
+
+.bg2 {margin-top:20px; height:50px; text-align:center; font-size:14px; font-family:'微软雅黑'; padding:10px 0; color:#CCC;}
+.bg2 a {color:#CCC;}
+.leftarrow {background:url(leftarrow.png); background-size: cover; border:none; width:10px; height:15px; display:block; float:left; margin:4px 5px 0 0; vertical-align:middle;}
+.leftarrowh1 {margin-top:7px;}
+
+.line1 {width:100%;}
